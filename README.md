@@ -1,3 +1,9 @@
+# SotaqueIA 
+Seu assistente de pronunciação em Inglês, Francês e Alemão!
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/7d6d186f-e945-4b1e-a4c3-809874c16250" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/5fd21499-3e31-41d1-8671-9ba41ba3324b" />
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
